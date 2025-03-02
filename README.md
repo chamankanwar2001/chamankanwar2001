@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chamanshekhawat712@gmail.com
+- 📫 How to reach me chamanshekhawat7121@gmail.com
 
 
 <!---
